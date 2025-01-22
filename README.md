@@ -1,5 +1,5 @@
                                                                          Real-Time Location Tracker
-                                             ------------------------------------------------------------------------------------------------
+                                            
 A real-time location tracking application built with Node.js, Express, Socket.IO, and Leaflet.js. This project allows multiple users to share their live locations on a map in real-time.
 ------------------------------------------------------------------------------------------------------------------------
 Features
