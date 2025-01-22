@@ -1,4 +1,5 @@
-Real-Time Location Tracker
+                                                                         Real-Time Location Tracker
+                                             ------------------------------------------------------------------------------------------------
 A real-time location tracking application built with Node.js, Express, Socket.IO, and Leaflet.js. This project allows multiple users to share their live locations on a map in real-time.
 ------------------------------------------------------------------------------------------------------------------------
 Features
@@ -38,7 +39,7 @@ npm (comes with Node.js)
 ---------------------------------------------------------------------------------------------------------------------------------
 Installation
 Clone the repository:
-git clone https://github.com/your-username/real-time-location-tracker.git
+git clone https://github.com/Kushwaha2406Vikash/REAL-TIME-LOCATION-TRACKER.git
 cd real-time-location-tracker
 Install dependencies:
 npm install
